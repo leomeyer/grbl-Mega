@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Setup",
+    "gcode": "$H; G10 P0 L20 X0 Y0 Z0;"
+  },
+  {
+    "name": "Mitte",
+    "gcode": "G90 X62.5 Y22 Z0;"
+  }
+]
